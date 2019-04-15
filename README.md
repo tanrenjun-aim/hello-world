@@ -1,3 +1,5 @@
 # hello-world
+
 Gitチュートリアル
-1
+
+status確認
